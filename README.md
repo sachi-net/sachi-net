@@ -1,4 +1,4 @@
-## What a Wonderfull day..!!!
+## What a Wonderfull day..!!! ![Profile View Counter](https://komarev.com/ghpvc/?username=sachi-net)
 
 <div align='center'>
 
@@ -6,10 +6,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sachi-net&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/>
   
 </div>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=sachi-net)
-
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=sachi-net&theme=gotham)](https://github.com/sachi-net/github-readme-activity-graph&theme=github)
 
 <div align='center'>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachi-net&theme=github_dark"/>
@@ -19,6 +15,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sachi-net&theme=github_dark"/>
   </div>
 </div>
+
 
 <!--
 **sachi-net/sachi-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
